@@ -5,5 +5,7 @@ class RepositoriesController < ApplicationController
   end
 
   def github_search
+    begin
+    end
   end
 end
